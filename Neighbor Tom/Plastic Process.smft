@@ -1,0 +1,9 @@
+<Device Model="MC2W">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="10"/>
+      <Device Model="C2N-CBD-P" DeviceId="11"/>
+      <Device Model="C2N-CBD-P" DeviceId="12"/>
+      <Device Model="GLPP-1SW2CN" DeviceId="1A"/>
+      <Device Model="GLPP-1SW2CN" DeviceId="1B"/>
+   </Network>
+</Device>
